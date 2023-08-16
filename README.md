@@ -1,2 +1,3 @@
-# magicbox
+# magiccard
+
 my trial magicbox/pencode
